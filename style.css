@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    height: 100vh;
+    border-color: black;
+}
+span {
+    background: url("https://cdn4.iconfinder.com/data/icons/set-user-interface/26/love_icon-256.png");
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    background-size: cover;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
